@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: d_anank
-Donate link: http://antiteori.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YVN29H48DPDBS&lc=ID&item_name=wordpress%20plugin%20user%2dlogin%2dwidget&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
 Tags: user, login, widget
 Requires at least: 2.7
 Tested up to: 2.7
